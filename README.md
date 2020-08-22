@@ -1,5 +1,5 @@
 # White-Paper
-Qué es un White Paper
+
 Cada Oferta Inicial de Monedas (Initial Coin Offering, ICO) en el mercado necesita un White Paper para que se convierta en una campaña exitosa.
 
 Un White Paper es un documento que incluye un resumen de un problema que el proyecto está tratando de resolver, la solución a ese problema, así como una descripción detallada de su producto, su arquitectura y su interacción con los usuarios.
